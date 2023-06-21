@@ -141,27 +141,6 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 ![](http://ww4.sinaimg.cn/large/006tKfTcgy1fgrgbgf77aj308i02v748.jpg)
 
-### Friends
-
-好友链接部分。这会在全部页面显示。
-
-设置是在 `_config.yml`文件里面的`Friends`那块，自己加吧。
-
-```
-# Friends
-friends: [
-    {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
-    },
-    {
-        title: "Apple",
-        href: "https://apple.com/"
-    }
-]
-```
-
-
 ### Keynote Layout
 
 HTML5幻灯片的排版：
